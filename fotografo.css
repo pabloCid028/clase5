@@ -1,0 +1,30 @@
+#container{
+    width: 80%;
+    margin: 0 auto;
+}
+.imagen{
+    width: 30%;
+    margin: 1.4%;
+    margin-left: auto;
+    font-size: 40px;
+    border-radius: 10px;
+}
+h1,  .parrafo{
+    margin: 0 auto;
+    text-align: justify;
+    color: rgb(87, 65, 65);
+    width: 52%;
+}
+h1{
+    text-transform: uppercase;
+    padding: 2px;
+    border-bottom: 3px solid red;
+    width: 51%;
+
+}
+.body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/790/52/1014/minimalistic-waves-white-gradient-wallpaper-preview.jpg);
+    font-family: 'Grape Nuts', cursive;
+}
